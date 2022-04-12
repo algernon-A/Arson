@@ -74,14 +74,13 @@
     <Compile Include="Code\Utils\TextureUtils.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Images\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="packages.config" />
     <None Include="Translations\en.csv" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\PreviewImage.png" />
     <Content Include="License.txt" />
     <Content Include="Resources\ArsonUUI.png" />
   </ItemGroup>
