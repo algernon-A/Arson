@@ -3,6 +3,6 @@ NAME,日本語
 ARS_NAM,Arson
 ARS_DESC,コマンドで建物火災を起こします
 TRN_CHOICE,言語の設定
-TRN_SYS,Use システムの言語
+TRN_SYS,システム言語を使用
 KEY_KEY,放火ツールのホットキー
 KEY_PRS,何かキーを押して下さい
