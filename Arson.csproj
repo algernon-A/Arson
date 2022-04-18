@@ -78,6 +78,8 @@
   <ItemGroup>
     <None Include="packages.config" />
     <None Include="Translations\en.csv" />
+    <None Include="Translations\ja.csv" />
+    <None Include="Translations\ru.csv" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Images\PreviewImage.png" />
