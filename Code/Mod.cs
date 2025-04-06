@@ -11,7 +11,7 @@ namespace Arson
     public class ArsonMod : IUserMod
     {
         public static string ModName => "Arson";
-        public static string Version => "1.0";
+        public static string Version => "1.1";
 
         public string Name => ModName + " " + Version;
         public string Description => Translations.Translate("ARS_DESC");
